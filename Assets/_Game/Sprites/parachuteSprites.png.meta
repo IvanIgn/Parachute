@@ -1,0 +1,1627 @@
+fileFormatVersion: 2
+guid: c72c5cf13d80d41ccac2e49091a4b824
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3794881757079635133
+    second: parachuteSprites_0
+  - first:
+      213: -785177072649327717
+    second: parachuteSprites_1
+  - first:
+      213: 275109150335458387
+    second: parachuteSprites_2
+  - first:
+      213: -4703807294010098251
+    second: parachuteSprites_3
+  - first:
+      213: 6704802719760525349
+    second: parachuteSprites_4
+  - first:
+      213: 121814395260790363
+    second: parachuteSprites_5
+  - first:
+      213: -7435291440645158084
+    second: parachuteSprites_6
+  - first:
+      213: -7799432570783761316
+    second: parachuteSprites_7
+  - first:
+      213: 387976135200323249
+    second: parachuteSprites_8
+  - first:
+      213: -6305521562437059889
+    second: parachuteSprites_9
+  - first:
+      213: -8749875807628139730
+    second: parachuteSprites_10
+  - first:
+      213: 2520619950240087060
+    second: parachuteSprites_11
+  - first:
+      213: -5485586884220525890
+    second: parachuteSprites_12
+  - first:
+      213: 7364919693071529803
+    second: parachuteSprites_13
+  - first:
+      213: 2250795094945438788
+    second: parachuteSprites_14
+  - first:
+      213: 7578771264229643258
+    second: parachuteSprites_15
+  - first:
+      213: -1007716500120722416
+    second: parachuteSprites_16
+  - first:
+      213: 6333931545838170565
+    second: parachuteSprites_17
+  - first:
+      213: 5082835902382024663
+    second: parachuteSprites_18
+  - first:
+      213: -832353544494841302
+    second: parachuteSprites_19
+  - first:
+      213: -1507996709297672042
+    second: parachuteSprites_20
+  - first:
+      213: -4182895177309254801
+    second: parachuteSprites_21
+  - first:
+      213: -2472720158612177896
+    second: parachuteSprites_22
+  - first:
+      213: 8372620304609555881
+    second: parachuteSprites_23
+  - first:
+      213: -3818820760653960820
+    second: parachuteSprites_24
+  - first:
+      213: 5345773505485572655
+    second: parachuteSprites_25
+  - first:
+      213: -8617308286085104312
+    second: parachuteSprites_26
+  - first:
+      213: -7154260321354619803
+    second: parachuteSprites_27
+  - first:
+      213: 4874177489004695799
+    second: parachuteSprites_28
+  - first:
+      213: 2921126091342742522
+    second: parachuteSprites_29
+  - first:
+      213: 6720114075812933305
+    second: parachuteSprites_30
+  - first:
+      213: -8295205799782051398
+    second: parachuteSprites_31
+  - first:
+      213: -5419479398543777989
+    second: parachuteSprites_32
+  - first:
+      213: -3715056741128303015
+    second: parachuteSprites_33
+  - first:
+      213: -4508462556404924620
+    second: parachuteSprites_34
+  - first:
+      213: -6246425720835232427
+    second: parachuteSprites_35
+  - first:
+      213: 5489161839210159882
+    second: parachuteSprites_36
+  - first:
+      213: -2189811472739569656
+    second: parachuteSprites_37
+  - first:
+      213: 2878149115553665329
+    second: parachuteSprites_38
+  - first:
+      213: -585296202928632847
+    second: parachuteSprites_39
+  - first:
+      213: -547584704627104626
+    second: parachuteSprites_40
+  - first:
+      213: 4092533471252759571
+    second: parachuteSprites_41
+  - first:
+      213: -2279026505623994649
+    second: parachuteSprites_42
+  - first:
+      213: 1226579260762073261
+    second: parachuteSprites_43
+  - first:
+      213: 3525053267487940319
+    second: parachuteSprites_44
+  - first:
+      213: -4419724229684784214
+    second: parachuteSprites_45
+  - first:
+      213: 894533509461848006
+    second: parachuteSprites_46
+  - first:
+      213: -1387162935279143107
+    second: parachuteSprites_47
+  - first:
+      213: -1690155509457348353
+    second: parachuteSprites_48
+  - first:
+      213: -8900575046762108456
+    second: parachuteSprites_49
+  - first:
+      213: 2220165336189669493
+    second: parachuteSprites_50
+  - first:
+      213: 1493673637879317412
+    second: parachuteSprites_51
+  - first:
+      213: -7064077381630477277
+    second: parachuteSprites_52
+  - first:
+      213: -1305876693610776949
+    second: parachuteSprites_53
+  - first:
+      213: -6491801705708943517
+    second: parachuteSprites_54
+  - first:
+      213: -7656292271361382886
+    second: parachuteSprites_55
+  - first:
+      213: 7700024952374438257
+    second: parachuteSprites_56
+  - first:
+      213: 4394766383336402667
+    second: parachuteSprites_57
+  - first:
+      213: -1098036962871909863
+    second: parachuteSprites_58
+  - first:
+      213: 1424404382730626990
+    second: parachuteSprites_59
+  - first:
+      213: 2153960951093988867
+    second: parachuteSprites_60
+  - first:
+      213: 2789868936496204133
+    second: parachuteSprites_61
+  - first:
+      213: 688777295068205739
+    second: parachuteSprites_62
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: parachuteSprites_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 501
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db06497018fd4afa95d3b3c1d9fbe29
+      internalID: 3794881757079635133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 500
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d936c25ad814a259b2cdf33a41b513
+      internalID: -785177072649327717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 502
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3525ad8f4c3b46398cdd1622bd5268f
+      internalID: 275109150335458387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 476
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c6a822a413b4e37989814622ffc852
+      internalID: -4703807294010098251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 499
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920114a889844476bad7aa34dbd834b0
+      internalID: 6704802719760525349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 499
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ae6252964be4b6caece843630c2c3b
+      internalID: 121814395260790363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 499
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977b798567ba74a199b40f56eb04e58f
+      internalID: -7435291440645158084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 499
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e201d9aca344efeba6cc7c49ea06a6
+      internalID: -7799432570783761316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 498
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15065d505ed14712b57eced01d929d9
+      internalID: 387976135200323249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 500
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca7032be72046e9965625c3faa3e5c
+      internalID: -6305521562437059889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 500
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b7be8094f1d40748c6da181603a791
+      internalID: -8749875807628139730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 500
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcea17f2129a4167804110115adfd8c
+      internalID: 2520619950240087060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 473
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1582d76d65f4f4ebe599662d190326
+      internalID: -5485586884220525890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 475
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60b494425ef5452a8af1076f239de16
+      internalID: 7364919693071529803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 473
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b98dda72051485b9c7ee97d7da4af8
+      internalID: 2250795094945438788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 488
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3650617fd40a4f70b019aea8465b56b
+      internalID: 7578771264229643258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 488
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28b3ccdae33f4b40a9dba1ab29ad6db
+      internalID: -1007716500120722416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 488
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e783927c15e1445eaaae547ac07127c8
+      internalID: 6333931545838170565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_18
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 488
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7972f5c27a64e4b8303f9fb7601c16
+      internalID: 5082835902382024663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 487
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28102fd2df4754c409cf5a71f3fee9eb
+      internalID: -832353544494841302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 480
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebbf7623cfc143218957db9dc53d6ad
+      internalID: -1507996709297672042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 448
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef84087cd6924d57b323d2d8b068501
+      internalID: -4182895177309254801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 450
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7d21c2eed0b44cca19c12d3589cba9
+      internalID: -2472720158612177896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 438
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0017330e3c0c443c08a142a7c00bb6ee
+      internalID: 8372620304609555881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 437
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fbe676f15d44b19b0d8c752014d5ae
+      internalID: -3818820760653960820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 432
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b6c78736551465da5b150b5a06c356
+      internalID: 5345773505485572655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 396
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7ecfaadf2ff4d568b3a63353992ace
+      internalID: -8617308286085104312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 412
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd74a6e4a08e4a7bbf96d0224995ec2
+      internalID: -7154260321354619803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 400
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dc07089e8f9479d8ef939d89c2ff71
+      internalID: 4874177489004695799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 402
+        width: 67
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfeb083f779742b4a4c83b908fbf52a
+      internalID: 2921126091342742522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 374
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c44c54efb2a42b5b51b6a90a8fb1d1
+      internalID: 6720114075812933305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 363
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cd2c77708fd4c92804a810cee9a91a
+      internalID: -8295205799782051398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 374
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2981b2a76aa46479a38bab4b2ea55e
+      internalID: -5419479398543777989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_33
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30c9e89aea5745de95c39154b78b97b
+      internalID: -3715056741128303015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 374
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dceffd124bb64be6ab29e32b9d6fe1e
+      internalID: -4508462556404924620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 366
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a8cafafe3464165add1a0b6e036f72
+      internalID: -6246425720835232427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 337
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70976e4d05da740e294e49f7df3d10e2
+      internalID: 5489161839210159882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 327
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b23974f251a480e8c7c60a26fab041
+      internalID: -2189811472739569656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 337
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978ca5824463f4a09ac933823f3c0fe4
+      internalID: 2878149115553665329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 326
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d83a831e638140c48a4481c1f526572
+      internalID: -585296202928632847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_40
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 327
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a459a6ceb64509a90f962aa9484e1
+      internalID: -547584704627104626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 328
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48283ef4ebba462ab466c5f37389248
+      internalID: 4092533471252759571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_42
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 289
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b8601113c024266886b52262f630ee
+      internalID: -2279026505623994649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 305
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6178a83301748491494c422bc825bda1
+      internalID: 1226579260762073261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 306
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3303e33a6d478447f950b3bb76e509c5
+      internalID: 3525053267487940319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_45
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 305
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ff323d4fe4a426982e9a9f6f19510f
+      internalID: -4419724229684784214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 253
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eb26e14703a4fcb8d59aaacbcc6bde
+      internalID: 894533509461848006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 254
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d608f4e990e4fe0ba617a19f6e7a71
+      internalID: -1387162935279143107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 249
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834886a24c993457c88e699d34d12ede
+      internalID: -1690155509457348353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_49
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 255
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e65c97eacc8a42e9b06d08aa7d2a0c6
+      internalID: -8900575046762108456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_50
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 255
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf49ca55c18d4c159769e034e4bced3
+      internalID: 2220165336189669493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_51
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 222
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b3e456fb556423abe9e7a8fd788211
+      internalID: 1493673637879317412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 233
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8269e0457c5ab40e08dea902e5246845
+      internalID: -7064077381630477277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 220
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f340162674d994d4a89e4f4c7a018c75
+      internalID: -1305876693610776949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_54
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 219
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a87ebeac930443d5a8e06fb3c559dc5
+      internalID: -6491801705708943517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 220
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f46e32942374fe2ae83465100eea3f
+      internalID: -7656292271361382886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_56
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 229
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e25f2fc1e564cc68b35e5335d70c8d
+      internalID: 7700024952374438257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_57
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 226
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee44ef7399ec4a9cae55d78af6d2bc7
+      internalID: 4394766383336402667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 223
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18100a41abc7e428ea81ba0bdcb46131
+      internalID: -1098036962871909863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 193
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a120a61c01d42d7b7d8503e331c3f6
+      internalID: 1424404382730626990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_60
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 193
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85837067ddc5c487293abcb0b30c7ed5
+      internalID: 2153960951093988867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_61
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d6aedd1e3474cda937446726ba5d85
+      internalID: 2789868936496204133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachuteSprites_62
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 9
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a81b8daf19c4734943187e021fa5b4
+      internalID: 688777295068205739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
